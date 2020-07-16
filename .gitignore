@@ -2,3 +2,7 @@
 node_modules/
 npm-debug.log
 yarn-error.log
+
+
+git config --global user.email "ran@homeran.co.il"
+  git config --global user.name "Ran Tayar"
