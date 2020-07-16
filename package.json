@@ -1,11 +1,11 @@
 {
   "name": "v-goto",
   "description": "A simple and easier to use $goTo, you can route to another route page",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "TgMrP <tgmrp.dev@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/homeranil/vue-social-links"
+    "url": "https://github.com/homeranil/v-goto"
   },
   "license": "MIT",
   "main": "dist/v-goto.js",

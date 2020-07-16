@@ -4,7 +4,7 @@ const goTo = {
     install(Vue, options) {
       Vue.mixin({
         methods: {
-          $goTo(name, params = null) {
+          $goTo(name, params = {}) {
             if (this.$route.name === name) {
               this.$router.go(this.$router.currentRoute);
             } else {
